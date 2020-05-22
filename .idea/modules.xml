@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CS1122 Lecture Notes/CS1122 Lecture Notes.iml" filepath="$PROJECT_DIR$/../CS1122 Lecture Notes/CS1122 Lecture Notes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CS1122 Programs/CS1122 Programs.iml" filepath="$PROJECT_DIR$/../CS1122 Programs/CS1122 Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uno_Lite/Uno_Lite.iml" filepath="$PROJECT_DIR$/Uno_Lite/Uno_Lite.iml" />
+    </modules>
+  </component>
+</project>
